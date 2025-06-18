@@ -1,0 +1,9 @@
+[submodule "UEVR-CPP_Template"]
+	path = UEVR-CPP_Template
+	url = https://github.com/elbadcode/UEVR-CPP_Template
+[submodule "UEVR-Overlay-Notis"]
+	path = UEVR-Overlay-Notis
+	url = https://github.com/elbadcode/UEVR-Overlay-Notis
+[submodule "UEVRlib"]
+	path = UEVRlib
+	url = https://github.com/elbadcode/UEVRlib
